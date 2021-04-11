@@ -2,10 +2,11 @@
 
 [Challenge description](https://competitions.codalab.org/competitions/28988#learn_the_details)
 
-This repo is created to describe the project `Youtube VIS Video Instance Segmentation Challenge 2021` conducted when I am an Machine Learning Engineer at [CyberCore AI](https://cybercore.co.jp/) from Feb. 2020 to now. It is a task in the company. <br/>
-The code is belongs into CyberCore AI. 
+This repo is created to describe the project `Youtube VIS Video Instance Segmentation Challenge 2021` conducted when I am a Machine Learning Engineer at [CyberCore AI](https://cybercore.co.jp/) from Feb. 2020 to now. The project is the cooperation between [Toyota Research Institute Advanced Development](https://www.woven-planet.global/) <br/>
+The code belongs to CyberCore AI. 
 
 ## Requirements <br/>
+Top ranks in the final leaderboard and have paper.
 ## Role
 Team member of a team with 4 people. I mainly focus on reading and implementing papers to improve the model results onthree tasks:  Object Detection, Instance Segmentation, and Object Tracking.
 ## Results
