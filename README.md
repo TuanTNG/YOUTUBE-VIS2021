@@ -11,7 +11,7 @@ Team member of a team with 4 people. I mainly focus on reading and implementing 
 ## Results
 In process.
 ### Visualization
-![Watch the video](videos/test_1.mp4)
-![Watch the video](videos/test_2.mp4)
-![Watch the video](videos/test_3.mp4)
-![Watch the video](videos/test_4.mp4)
+![Watch the video](videos/test_1.gif)
+![Watch the video](videos/test_2.gif)
+![Watch the video](videos/test_3.gif)
+![Watch the video](videos/test_4.gif)
