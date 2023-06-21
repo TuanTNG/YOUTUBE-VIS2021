@@ -9,8 +9,6 @@ The code belongs to CyberCore AI.
 Top ranks in the final leaderboard and have paper.
 ## Role
 Team member of a team with 4 people. I mainly focus on reading and implementing papers to improve the model results on three tasks:  Object Detection, Instance Segmentation, and Object Tracking.
-## Results
-In process.
 ### Visualization
 ![Watch the video](videos/test_1.gif)
 ![Watch the video](videos/test_2.gif)
